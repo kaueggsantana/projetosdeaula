@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  display: flex;
+  border: 1px solid cornsilk;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.item {
+  padding: 10px;
+  background-color: aquamarine;
+  color: azure;
+  margin: 5px;
+}
+.flex-start {
+  align-items: flex-start;
+}
+.flex-start {
+  align-items: flex-end;
+}
+.center {
+  align-items: center;
+}
+.space-evenly {
+  align-items: space-evenly;
+}

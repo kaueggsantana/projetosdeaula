@@ -1,0 +1,16 @@
+a {
+  text-decoration: none; /*Remove o Sublinhado*/
+  color: blue; /*Definição das cores padrão do links*/
+}
+a:hover {
+  /*Estilo quando o usuário passa o cursor*/
+  color: brown;
+}
+a:active {
+  /*Estilo quando os links são clicados*/
+  color: aqua;
+}
+a:visited {
+  /*Estilo de link que ja foram visitados*/
+  color: blueviolet;
+}

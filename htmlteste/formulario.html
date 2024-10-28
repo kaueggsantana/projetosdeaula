@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <center><h3 style="color: rgba(238, 11, 11, 0.904)"> Formulario</h3></center>
+    <p method="post" action="envio_dados.html">
+        <input type="text"name="nome"placeholder="Digite seu Nome aquui"required>        
+        <input type="e-mail" name="email" placeholder="Digite seu e-mail"><br><br> 
+        Informe quais veiculos voce tem: <br>
+        <input type="checkbox" name="veiculo1" value="bicicleta">Eu tenho uma bicicleta<br>
+        <input type="checkbox" name="veiculo2" value="carro">Eu tenho um carro<br>
+        <input type="checkbox" name="veiculo3" value="moto">Eu tenho uma moto<br>
+        Selecione sua cor preferida: <input type="color" name="cor" value="#000000"><br><br>
+        <input type="date"name="nascimento"><br><br>
+        <input type="file"name="arquivos"><br><br>
+        Qual sua idade ? </p>
+        <input type="radio" name="idade" value="18_22">18 a 22 <br>
+        <input type="radio" name="idade" value="23_30">23 a 30 <br>
+        <input type="radio" name="idade" value="mais31">acima de 31<br><br>
+    
+
+        
+        
+       
+
+          
+
+
+
+
+        
+        <input type="submit" type="button" name="enviar" value="Enviar" onclick="msg()">     
+    </form>
+                          
+            <script>
+                function msg(){
+                    alert("Voce foi redirecionado para nossa pagina")
+                }
+            </script>
+            
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+figure img {
+  width: 500px;
+}
+#vista {
+  width: 300px;
+}
+.vista {
+  width: 150px;
+}
+.borda {
+  border-radius: 20px;
+}
+p {
+  color: blue;
+}
+.paragrafo {
+  color: red;
+}
+#paragrafo-rosa {
+  color: pink;
+}
+div {
+  border: 2px solid;
+  border-color: blue;
+  width: 300px;
+  height: 300px;
+}
+img {
+  width: inherit;
+  height: inherit;
+}

@@ -1,0 +1,38 @@
+<p style="color: blue">
+    Olá, bem-vindo ao planejamento da nossa festa! Aqui estão os detalhes que
+    precisamos organizar:
+  </p>
+  <h2>Lista de Tarefas</h2>
+  <ol type="A">
+    <li>Escolher a data e horário</li>
+    <li>Convidar os amigos</li>
+    <li>Preparar a lista de compras</li>
+    <li>Decorar o local</li>
+    <li>Organizar a música</li>
+    <li>Planejar as atividades</li>
+  </ol>
+
+  <h2>Lista de Compras</h2>
+  <ul>
+    <li>Comidas e Bebidas</li>
+    <ul>
+      <li>Salgadinhos</li>
+      <li>Refrigerantes</li>
+      <li>Água</li>
+      <li>Doces</li>
+    </ul>
+    <li>Materiais de Decoração</li>
+    <ul>
+      <li>Balões</li>
+      <li>Fitas</li>
+      <li>Toalhas de mesa</li>
+      <li>Velas</li>
+    </ul>
+    <li>Outros Itens</li>
+    <ul>
+      <li>Pratos descartáveis</li>
+      <li>Copos descartáveis</li>
+      <li>Guardanapos</li>
+      <li>Talheres descartáveis</li>
+    </ul>
+  </ul>

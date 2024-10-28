@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author"content="Kaue">
+    <meta name="description"content="Este site é um site relaciondo a jogos antigos e lançamentos">
+    <meta name="keywords"content="Mario bros, Sonic,God of war,GtaV">
+    <title>Exercício de formatação de texto.</title>
+</head>1
+<body>
+    <h2 Align = "center"> Provérbios </h2>
+    <b> A riqueza de um homem e limitada por sua preguiça.</b> <br>
+    <p>Espere o melhor, prepare-se para o <i>pior</i> e <i>receba</i> o que <i>vier</i>.
+     <p>Há três coisas que jamais voltam: a <b>flecha</b> lançada, a <b>palavra</b> dita e a <b>oportunidade</b> perdida<br>
+         Se quiser derrubar uma <big>árvore</big> na metade do tempo, passe o dobro do tempo amolando o machado
+    
+    
+</body>
+</html>

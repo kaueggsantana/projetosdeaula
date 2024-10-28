@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>formulario</title>
+    <link rel="stylesheet" href="/cssteste/formulariosimples.css">
+</head>
+    <form action="" method="post">
+    <h2>Deixe um comentario</h2>
+    <label for="text-input">Nome:</label><br/>
+
+    <label for="text-input">Email:</label><br/>
+    <input type="email" id="email" name="email" required /><br/><br />
+
+    <label for="text-input">website:</label>
+    <input type="url" id="website" name="website" /><br /><br />
+
+    <label for="text-input">Comentario</label>
+    <!--Representa uma legenda para item--><br/>
+    <textarea id="comentario" nome="comentario" rows="4" cols="50"
+      required></textarea>
+      <br /><br />
+      <!--Campo obrigatorio - required-->
+      <p>
+        Observação: Seu comentario sera publicado após passar pelo moderador
+      </p>
+
+      <input type="submit" value="Enviar comentario" />
+    </form>
+</body>
+</html>
